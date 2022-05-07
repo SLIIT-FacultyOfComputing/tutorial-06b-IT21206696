@@ -1,4 +1,4 @@
-![logo](/resources/tutelogo.png)
+ ![logo](/resources/tutelogo.png)
 
 ## <div align="center">Tutorial 06</div>
 
